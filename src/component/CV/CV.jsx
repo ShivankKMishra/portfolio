@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Document, Page, pdfjs } from 'react-pdf';
+import pdf from "../../public/CV.pdf";
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css'; // Import AnnotationLayer styles
 import 'react-pdf/dist/esm/Page/TextLayer.css'; // Import TextLayer styles
 
