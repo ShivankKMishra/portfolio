@@ -32,9 +32,9 @@ export default function CV() {
 
   return (
     <div className='flex justify-center'>
-      <Document file="public/CV.pdf" onLoadSuccess={onDocumentLoadSuccess} onLoadError={onError}>
-        <Page pageNumber={pageNumber} scale={width > 786 ? 1.7 : 0.6} />
-      </Document>
+      <Document file="../../public/CV.pdf" onLoadSuccess={onDocumentLoadSuccess} onLoadError={onError}>
+  <Page pageNumber={pageNumber} scale={width > 786 ? 1.7 : 0.6} />
+</Document>
       <p>
         
       </p>
