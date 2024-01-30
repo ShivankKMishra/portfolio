@@ -6,7 +6,7 @@ function Home() {
     <>
       <div className=' mx-20 my-9'>
         <div className='container h- flex px-20 py-1 items-center'>
-              <img className=' ' src='https://github.com/ShivankKMishra/portfolio/blob/main/src/assets/images/profile-pic.png?raw=true'/>
+              <img className=' ' src='src/assets/images/profile-pic.png'/>
               <div >
                   <div className=' '> <h1 className='flex justify-center my-4 text-2xl text-gray-600  font-bold '>Hello, I'm</h1>
                   <h1 className='font-bold  text-5xl'>Shivank Mishra</h1>

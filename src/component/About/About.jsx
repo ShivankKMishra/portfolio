@@ -8,7 +8,7 @@ export default function About() {
 
       <div className="flex flex-wrap justify-center mx-2 md:mx-20 my-10 px-4 md:px-40">
         <div className="mb-4 md:mb-0">
-          <img className="h-36 mx-10 rounded-full" src="https://github.com/ShivankKMishra/portfolio/blob/main/src/assets/images/image%20(3).jpeg?raw=true" alt="My Image" />
+          <img className="h-36 mx-10 rounded-full" src="src/assets/images/image (3).jpeg" alt="My Image" />
         </div>
 
         <div className="flex flex-wrap m-2">
